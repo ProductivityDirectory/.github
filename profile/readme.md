@@ -11,4 +11,5 @@
 You can find following projects on our GitHub:
 
 - [Awesome Productivity Tools](https://github.com/ProductivityDirectory/awesome-productivity-tools): Curated list of Productivity Tools and Products
+- Latest Posts By [Productivity Blog](https://blog.productivity.directory)
 
