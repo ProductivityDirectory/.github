@@ -8,6 +8,7 @@
 - [Productivity Blog](https://blog.productivity.directory) - review productivity tools, find productivity tips
 - [Productivity Hacks List](https://productivity.directory/notes/hacks) - a list of top productivity hacks
 - [Productivity Newsletter](https://newsletter.productivity.directory) - Best productivity newsletter
+- [Sponsorship](https://passionfroot.me/productivity)
 
 You can find following projects on our GitHub:
 
